@@ -1,2 +1,2 @@
 # IMCPython3
-calcula o indice de massa corporal
+calcula a media dos alunos
